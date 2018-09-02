@@ -1,0 +1,14 @@
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:mvd="http://MVDWebServices/">
+        <soapenv:Header/>
+        <soapenv:Body>
+                <mvd:PasspData>
+                        <ser>MP</ser>
+                        <num>1234567</num>
+                        <surname>Test</surname>
+                        <name>Test</name>
+                        <lastname>Test</lastname>
+                        <identif>3200400A000PB0</identif>
+                        <desc>Gebeleva 7-405</desc>
+                </mvd:PasspData>
+        </soapenv:Body>
+</soapenv:Envelope>
